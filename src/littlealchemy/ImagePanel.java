@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 
 public class ImagePanel extends JPanel{
     
-    ImageIcon image = new ImageIcon("fuoco.JPG");
+    ImageIcon image = new ImageIcon("fuocoMoltoBello.png");
     //"minuto 3:40"
     // anche 5
     
